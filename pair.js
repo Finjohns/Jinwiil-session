@@ -58,22 +58,22 @@ router.get('/', async (req, res) => {
 
                let SIGMA_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃MASTER MD SESSION IS 
+┃JINWIIL MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = Sahan / MASTER MIND_👨🏻‍💻
+❶ || Creator = JINWIIL / VINKEL POWER_👨🏻‍💻
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94720797915
+❸ || Owner = https://wa.me/+254769365617
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || INSTAGRAM = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
+❺ || INSTAGRAM = https://www.instagram.com/dorge_os?igsh=MTE5OTA4NWx0Nnlmeg==
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || FaceBook = https://www.facebook.com/profile.php?id=100089180711131
+❻ || FaceBook = https://www.facebook.com/kelvin.leka.1
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ`
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ 𝗩𝗜𝗡𝗞𝗘𝗟 𝐉𝚰𝚴𝐖𝚰𝚰𝐋🕷️🕸️`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
